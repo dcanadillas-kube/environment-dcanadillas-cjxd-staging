@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 34.77.235.88.nip.io
+    domain: cjxd.dcanadillas.com
     exposer: Ingress
     http: "true"
     tlsacme: "false"
