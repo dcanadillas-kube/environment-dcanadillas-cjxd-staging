@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.7
 - name: jx-go-quickstart
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
+  version: 0.0.5
 - name: petclinic-kaniko-import
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
